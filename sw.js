@@ -4,8 +4,8 @@ const urlsToCache = [
     '/Tarefas/index.html',
     '/Tarefas/style.css',
     '/Tarefas/manifest.json',
-    '/Tarefas/icons/icon-192x192.png',
-    '/Tarefas/icons/icon-512x512.png'
+    '/Tarefas/icons/sla1.jpg',
+    '/Tarefas/icons/sla2.jpg'
 ];
 
 self.addEventListener('install', event => {
